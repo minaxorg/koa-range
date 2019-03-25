@@ -1,6 +1,6 @@
 {
   "name": "@minax/koa-range",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "range request implementation for koa2",
   "main": "src/index.js",
   "directories": {
