@@ -1,6 +1,11 @@
 # koa-range &middot; [![npm](https://img.shields.io/npm/v/@minax/koa-range.svg)](https://www.npmjs.com/package/@minax/koa-range)
 range request implementation for koa2
 
+## Install
+```
+npm install @minax/koa-range
+```
+
 ## Quick Overview
 
 ```
